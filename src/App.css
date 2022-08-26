@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-color: rgb(36, 36, 36);
+  height: 100vh;
+  color: white;
 }
 
 .App-logo {
@@ -35,4 +38,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  color: yellow;
+  margin: 0;
+}
+
+.gif-sizes {
+  list-style: none;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  gap: 2em;
+  padding: 0;
 }
