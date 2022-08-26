@@ -1,0 +1,12 @@
+.gif-sizes {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  gap: 2em;
+  padding: 0 0 1em 0;
+}
+
+.tip {
+  font-style: italic;
+  font-size: 0.8em;
+}

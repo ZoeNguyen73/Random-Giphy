@@ -3,6 +3,7 @@
   background-color: rgb(36, 36, 36);
   height: 100vh;
   color: white;
+  padding: 1em 0;
 }
 
 .App-logo {
@@ -45,11 +46,10 @@ h1 {
   margin: 0;
 }
 
-.gif-sizes {
-  list-style: none;
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: center;
-  gap: 2em;
-  padding: 0;
+.divider {
+  height: 1px;
+  border-bottom: 1px dotted white;
+  width: 50%;
+  margin: 0 auto;
+  padding: 1em 0;
 }
