@@ -16,7 +16,7 @@ function Search(props) {
   return (
     <form onSubmit={searchSubmit}>
       <label>
-        <p>Search a Gif</p>
+        <h2>Search a Gif</h2>
         <input
           placeholder="search GIF by keyword"
           type="text"

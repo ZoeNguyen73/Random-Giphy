@@ -46,6 +46,11 @@ h1 {
   margin: 0;
 }
 
+h2 {
+  color: white;
+  margin: 1em 0 0 0;
+}
+
 .divider {
   height: 1px;
   border-bottom: 1px dotted white;
